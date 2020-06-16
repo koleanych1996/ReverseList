@@ -1,0 +1,2 @@
+rootProject.name='ReverseList'
+include ':app'
